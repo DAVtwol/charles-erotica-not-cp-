@@ -1,0 +1,9 @@
+state={
+	id=44
+	name="STATE_44"
+	provinces={
+		374 487 1283 1653 1946 2225 2263 2270 2366 3489 3495 3498 3505 3511 3521 3530 3533 3541 3548 3561 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
