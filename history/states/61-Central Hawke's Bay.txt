@@ -1,0 +1,11 @@
+state={
+	id=61
+	name="STATE_61"
+	state_category = rural
+	provinces={
+		14 101 164 278 399 464 465 467 501 544 563 574 683 753 829 843 883 1046 1049 1102 1137 1162 1194 1208 1220 1275 1321 1338 1346 1531 1532 1534 1539 1542 
+	}
+	manpower=14142
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

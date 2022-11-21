@@ -1,0 +1,12 @@
+
+state={
+	id=4
+	name="STATE_4"
+	state_category = metropolis
+	provinces={
+		230 256 296 355 419 774 844 889 1010 1028 1030 1120 1188 1285 1287 1573 1580 1584 1589 1590 
+	}
+	manpower=527800
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

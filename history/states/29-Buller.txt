@@ -1,0 +1,11 @@
+state={
+	id=29
+	name="STATE_29"
+	state_category = rural
+	provinces={
+		42 46 87 102 170 181 250 393 450 485 633 785 786 788 806 821 961 1008 1047 1178 1182 1219 1224 1357 1575 1592 1614 
+	}
+	manpower=9591
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

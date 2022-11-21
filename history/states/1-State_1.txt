@@ -1,9 +1,12 @@
+
 state={
 	id=1
 	name="STATE_1"
+	state_category = rural 
 	provinces={
-		202 1361 2853 
+		17 78 79 94 106 257 268 328 358 509 628 641 661 750 757 847 920 974 1059 1083 1166 1180 1229 1377 1441 1449 1463 
 	}
-	manpower=0
+	manpower=9276
 	buildings_max_level_factor=1.000
+	local_supplies=0.000
 }

@@ -1,0 +1,12 @@
+
+state={
+	id=34
+	name="STATE_34"
+	state_category = rural
+	provinces={
+		111 204 219 374 445 612 685 755 758 759 810 915 945 1029 1151 1243 1249 1289 1304 1574 1586 1587 1588 1594 1595 1601 1872 
+	}
+	manpower=10575
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

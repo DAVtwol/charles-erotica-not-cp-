@@ -1,0 +1,12 @@
+
+state={
+	id=53
+	name="STATE_53"
+	state_category = rural
+	provinces={
+		36 49 76 119 132 180 188 193 199 369 392 451 456 575 659 704 861 896 949 1279 1328 1501 1502 1507 1508 1510 1512 1516 1523 
+	}
+	manpower=27534
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
