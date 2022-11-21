@@ -1,5 +1,5 @@
 name="New New Zealand DEV"
-path="mod/charles-erotica-not-cp-"
+path="mod/New New Zealand DEV/"
 replace_path="history/states"
 tags={
 	"Map"
