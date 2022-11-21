@@ -1,0 +1,68 @@
+spriteTypes = {
+	
+	# UK Events
+	
+	spriteType = {
+		name = "GFX_ENG_event_wilson_cabinet_meeting"
+		texturefile = "gfx/event_pictures/ENG/ENG_event_wilson_cabinet_meeting.dds"
+	}
+	
+	# Germany Events
+	
+	spriteType = {
+		name = "GFX_GER_event_ulbricht_trinwillershagen_visit"
+		texturefile = "gfx/event_pictures/GER/GER_event_ulbricht_trinwillershagen_visit.dds"
+	}
+	
+	# Soviet Union Events
+	
+	spriteType = {
+		name = "GFX_SOV_event_hungarian_revolution_starts"
+		texturefile = "gfx/event_pictures/SOV/SOV_event_hungarian_revolution_starts.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_SOV_event_konev_calls_for_pact_support"
+		texturefile = "gfx/event_pictures/SOV/SOV_event_konev_calls_for_pact_support.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_SOV_event_hungarian_spillover"
+		texturefile = "gfx/event_pictures/SOV/SOV_event_hungarian_spillover.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_SOV_event_nagy_ready_negotiate"
+		texturefile = "gfx/event_pictures/SOV/SOV_event_nagy_ready_negotiate.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_SOV_event_hun_discussing_demands"
+		texturefile = "gfx/event_pictures/SOV/SOV_event_hun_discussing_demands.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_SOV_event_beria_1"
+		texturefile = "gfx/event_pictures/SOV/SOV_event_beria_1.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_SOV_event_people_negotiating_1" 
+		texturefile = "gfx/event_pictures/SOV/SOV_event_people_negotiating_1.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_SOV_event_sov_accept_demands" 
+		texturefile = "gfx/event_pictures/SOV/SOV_event_sov_accept_demands.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_SOV_event_war_continues" 
+		texturefile = "gfx/event_pictures/SOV/SOV_event_war_continues.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_SOV_event_foreign_intervention" 
+		texturefile = "gfx/event_pictures/SOV/SOV_event_foreign_intervention.dds"
+	}
+}

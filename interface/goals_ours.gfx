@@ -1,0 +1,120 @@
+spriteTypes = {
+	# UK
+	
+	SpriteType = {
+		name = "GFX_goal_ENG_state_of_britannia"
+		texturefile = "gfx/interface/goals/ENG/ENG_state_of_britannia.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_ENG_call_together_wilson_cabinet"
+		texturefile = "gfx/interface/goals/ENG/ENG_call_together_wilson_cabinet.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_ENG_address_to_parliament"
+		texturefile = "gfx/interface/goals/ENG/ENG_address_to_parliament.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_goal_ENG_preparing_for_snap_election"
+		texturefile = "gfx/interface/goals/ENG/ENG_preparing_for_snap_election.dds"
+	}
+	
+	# FFR
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_the_ticking_clock"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_the_ticking_clock.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_evacuate"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_evacuate.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_evacuate_industry"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_evacuate_industry.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_evacuate_french_civilians"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_evacuate_french_civilians.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_evacuate_the_garrison"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_evacuate_the_garrison.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_disarm_paramilitaries"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_disarm_paramilitaries.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_evacuate_african_collaborators"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_evacuate_african_collaborators.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_treaty_of_oran"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_treaty_of_oran.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_defense_of_dakar"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_defense_of_dakar.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_fall_back_to_cape_verde"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_fall_back_to_cape_verde.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_dispersed_defense"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_dispersed_defense.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_strengthen_the_garrison"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_strengthen_the_garrison.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_form_french_paramilitaries"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_form_french_paramilitaries.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_root_out_senegalese_traitors"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_root_out_senegalese_traitors.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_enlist_support_from_the_navy"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_enlist_support_from_the_navy.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_request_british_air_support"
+		texturefile = "gfx/interface/goals/FFR/FFR_request_british_air_support.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_hold_our_heads_in_shame"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_hold_our_heads_in_shame.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_focus_there_will_be_blood"
+		texturefile = "gfx/interface/goals/FFR/FFR_focus_there_will_be_blood.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_goal_FFR_return_to_domestic_issues"
+		texturefile = "gfx/interface/goals/FFR/FFR_return_to_domestic_issues.dds"
+	}
+}

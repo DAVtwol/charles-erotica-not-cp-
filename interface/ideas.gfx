@@ -1,0 +1,100 @@
+spriteTypes = {
+
+	# GERMANY
+	
+	SpriteType = {
+		name = "GFX_idea_GER_forced_rhenish_trade_embargo_icon"
+		texturefile = "gfx/interface/ideas/GER/GER_forced_rhenish_trade_embargo_icon.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_GER_doubtful_workers_icon"
+		texturefile = "gfx/interface/ideas/GER/GER_doubtful_workers_icon.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_GER_outdated_leadership_icon"
+		texturefile = "gfx/interface/ideas/GER/GER_outdated_leadership_icon.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_GER_nationale_volksarmee_icon"
+		texturefile = "gfx/interface/ideas/GER/GER_nationale_volksarmee_icon.dds"
+	}
+	
+	# UK
+	
+	SpriteType = {
+		name = "GFX_idea_ENG_darkest_hour"
+		texturefile = "gfx/interface/ideas/ENG/ENG_darkest_hour.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_ENG_economic_downturn"
+		texturefile = "gfx/interface/ideas/ENG/ENG_economic_downturn.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_ENG_new_britain"
+		texturefile = "gfx/interface/ideas/ENG/ENG_new_britain.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_ENG_ineffective_labour_govt"
+		texturefile = "gfx/interface/ideas/ENG/ENG_ineffective_labour_govt.dds"
+	}
+	
+	# FFR
+	
+	SpriteType = {
+		name = "GFX_idea_FFR_unwilling_population"
+		texturefile = "gfx/interface/ideas/FFR/FFR_unwilling_population.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_FFR_army_debt_crisis"
+		texturefile = "gfx/interface/ideas/FFR/FFR_army_debt_crisis.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_FFR_liberte_egalite_fraternite"
+		texturefile = "gfx/interface/ideas/FFR/FFR_liberte_egalite_fraternite.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_FFR_fln_resistance"
+		texturefile = "gfx/interface/ideas/FFR/FFR_fln_resistance.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_FFR_constant_war"
+		texturefile = "gfx/interface/ideas/FFR/FFR_constant_war.dds"
+	}
+	
+	# USA
+	
+	SpriteType = {
+		name = "GFX_idea_USA_land_of_the_free_maybe"
+		texturefile = "gfx/interface/ideas/USA/USA_land_of_the_free_maybe.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_USA_red_nightmare"
+		texturefile = "gfx/interface/ideas/USA/USA_red_nightmare.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_USA_woes_two_party_system"
+		texturefile = "gfx/interface/ideas/USA/USA_woes_two_party_system.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_USA_civil_rights_act_of_1950"
+		texturefile = "gfx/interface/ideas/USA/USA_civil_rights_act_of_1950.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_USA_last_bulwark_of_capitalism"
+		texturefile = "gfx/interface/ideas/USA/USA_last_bulwark_of_capitalism.dds"
+	}
+}
