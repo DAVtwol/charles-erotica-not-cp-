@@ -1,0 +1,11 @@
+state={
+	id=37
+	name="STATE_37"
+	provinces={
+		262 278 317 460 569 581 635 636 684 942 946 949 950 951 952 953 954 957 960 963 
+	}
+	manpower=25557
+	buildings_max_level_factor=1.000
+	state_category = town
+	local_supplies=0.000
+}

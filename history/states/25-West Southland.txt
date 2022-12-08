@@ -1,0 +1,11 @@
+state={
+	id=25
+	name="STATE_25"
+	provinces={
+		7 38 41 43 44 62 75 87 109 117 137 200 203 211 224 243 284 292 296 304 319 327 437 525 627 666 678 680 700 741 1083 1095 1104 1107 1113 1135 1978 1989 1990 
+	}
+	manpower=105
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+	local_supplies=0.000
+}

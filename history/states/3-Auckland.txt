@@ -1,0 +1,11 @@
+state={
+	id=3
+	name="STATE_3"
+	provinces={
+		94 281 354 401 434 458 481 551 553 574 643 652 655 661 698 705 710 715 720 735 780 781 782 783 784 785 786 787 788 789 790 792 793 794 795 797 798 799 800 803 804 1124 1125 1127 1128 
+	}
+	manpower=1571718
+	buildings_max_level_factor=1.000
+	state_category = large_city 
+	local_supplies=0.000
+}

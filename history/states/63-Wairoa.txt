@@ -1,11 +1,11 @@
 state={
 	id=63
 	name="STATE_63"
-	state_category = rural
 	provinces={
-		82 93 277 353 458 469 471 538 540 695 772 902 903 955 984 1034 1038 1114 1122 1136 1239 1241 1489 1492 1494 1496 1498 1871 
+		26 27 45 100 179 214 307 359 378 486 610 621 683 728 855 857 858 861 862 868 1981 
 	}
 	manpower=8367
 	buildings_max_level_factor=1.000
+	state_category = rural
 	local_supplies=0.000
 }

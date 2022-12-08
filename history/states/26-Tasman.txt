@@ -1,0 +1,12 @@
+
+state={
+	id=26
+	name="STATE_26"
+	provinces={
+		53 56 69 151 159 219 237 311 335 358 371 376 386 411 485 536 556 559 598 649 669 716 732 740 925 940 944 947 999 1014 1015 
+	}
+	manpower=52389
+	buildings_max_level_factor=1.000
+	state_category = town
+	local_supplies=0.000
+}

@@ -1,0 +1,12 @@
+
+state={
+	id=62
+	name="STATE_62"
+	provinces={
+		112 202 221 222 229 275 276 295 346 474 524 545 594 629 660 671 679 692 713 828 840 843 851 852 
+	}
+	manpower=35700
+	buildings_max_level_factor=1.000
+	state_category = town
+	local_supplies=0.000
+}
