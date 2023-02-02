@@ -1,6 +1,9 @@
 state={
 	id=42
 	name="STATE_42"
+	history = {
+	    owner = TST
+	}
 	provinces={
 		170 326 593 637 653 712 811 824 
 	}
