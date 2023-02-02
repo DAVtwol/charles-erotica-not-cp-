@@ -2,7 +2,7 @@ state={
 	id=4
 	name="STATE_4"
 	history = {
-	    owner = TST
+	    owner = NZL
 	}		
 	provinces={
 		127 174 206 390 499 530 663 961 962 964 965 967 970 971 972 976 982 986 

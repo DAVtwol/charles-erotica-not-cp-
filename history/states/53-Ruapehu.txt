@@ -3,7 +3,7 @@ state={
 	id=53
 	name="STATE_53"
 	history = {
-	    owner = TST
+	    owner = SNZ
 	}
 	provinces={
 		29 59 118 149 183 220 350 428 465 498 563 564 864 870 

@@ -1,0 +1,3 @@
+TST = "countries/Test.txt"
+SNZ = "countries/Socialist New Zealand.txt"
+NZL = "countries/New Zealand.txt"
