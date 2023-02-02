@@ -2,3 +2,11 @@ TST = {
 	color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
 }
+NZL = {
+	color = rgb { 152 130 191 }
+	color_ui = rgb { 198 169 248 }
+}
+SNZ = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 163 17 31 }
+}	
