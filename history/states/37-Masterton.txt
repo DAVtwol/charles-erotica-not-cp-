@@ -3,6 +3,13 @@ state={
 	name="STATE_37"
 	history = {
 	    owner = NZL
+		
+		victory_points = {
+			635 10
+		}
+		victory_points = {
+			952 10
+		}
 	}
 	provinces={
 		262 278 317 460 569 581 635 636 684 942 946 949 950 951 952 953 954 957 960 963 

@@ -4,6 +4,10 @@ state={
 	name="STATE_1"
 	history = {
 	    owner = TST
+		
+	victory_points = {
+			833 10
+		}
 	}	
 	provinces={
 				2 20 196 289 345 425 427 451 513 614 686 691 725 813 819 820 827 829 833 834 837 841 842 
